@@ -1,0 +1,29 @@
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: #0008ff;
+	text-decoration: none;
+}
+body{
+	background-color:white;
+	background-image: url("My Background.jpg");
+	font-family: "Arial", Arial, sans-serif;
+	font-size: 14px;
+	color: #333334;
+}
+h1 {
+	color: black;
+	font-size: 24px;
+}
+
+
+
+
+
+
+
+
